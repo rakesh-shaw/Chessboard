@@ -16,3 +16,7 @@ body {
 .whitecell {
     background-color: white;
 }
+
+center {
+    margin: 15%;
+}
